@@ -1,5 +1,4 @@
 Git start!15.8.16
-Git is a version control system.
+Git is a distributed version control system.
 Git is convenient.
-
-8.20
+git is free software distrbuted under the GPL.
